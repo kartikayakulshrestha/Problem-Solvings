@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0070-climbing-stairs) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
