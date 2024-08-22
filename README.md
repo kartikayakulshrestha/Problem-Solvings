@@ -70,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0921-spiral-matrix-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
