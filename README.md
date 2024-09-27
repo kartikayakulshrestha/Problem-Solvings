@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0198-house-robber) |
+| [0560-subarray-sum-equals-k](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0747-min-cost-climbing-stairs) |
 | [0921-spiral-matrix-iii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0921-spiral-matrix-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0560-subarray-sum-equals-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0476-number-complement) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
