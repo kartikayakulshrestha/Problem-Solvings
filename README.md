@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0198-house-robber) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0747-min-cost-climbing-stairs) |
 | [0921-spiral-matrix-iii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0921-spiral-matrix-iii) |
@@ -99,4 +100,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
