@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1236-n-th-tribonacci-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
