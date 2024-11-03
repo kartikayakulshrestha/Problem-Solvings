@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0812-rotate-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2580-circular-sentence](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2580-circular-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/3195-separate-black-and-white-balls) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0540-single-element-in-a-sorted-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
