@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0040-combination-sum-ii) |
 | [0064-minimum-path-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0198-house-robber) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0078-subsets) |
 | [0476-number-complement](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0476-number-complement) |
 ## Prefix Sum
 |  |
@@ -139,4 +141,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
