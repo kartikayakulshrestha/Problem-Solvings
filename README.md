@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0039-combination-sum) |
 | [0064-minimum-path-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
