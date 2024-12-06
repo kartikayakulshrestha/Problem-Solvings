@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0198-house-robber) |
+| [0216-combination-sum-iii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0216-combination-sum-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0747-min-cost-climbing-stairs) |
@@ -145,4 +146,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
