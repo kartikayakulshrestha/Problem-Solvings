@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0216-combination-sum-iii) |
+| [0455-assign-cookies](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0747-min-cost-climbing-stairs) |
@@ -54,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0455-assign-cookies) |
 | [3195-separate-black-and-white-balls](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0455-assign-cookies) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0455-assign-cookies) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
