@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0747-min-cost-climbing-stairs) |
+| [0890-lemonade-change](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0921-spiral-matrix-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0890-lemonade-change) |
 | [3195-separate-black-and-white-balls](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
