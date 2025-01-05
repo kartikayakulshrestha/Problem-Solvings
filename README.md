@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0921-spiral-matrix-iii) |
+| [1044-find-common-characters](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1044-find-common-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Math
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0560-subarray-sum-equals-k) |
+| [1044-find-common-characters](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1044-find-common-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0131-palindrome-partitioning) |
 | [0812-rotate-string](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0812-rotate-string) |
+| [1044-find-common-characters](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1044-find-common-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2580-circular-sentence](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2580-circular-sentence) |
