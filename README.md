@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1908-recyclable-and-low-fat-products) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Two Pointers
 |  |
 | ------- |
