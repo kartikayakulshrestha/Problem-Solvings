@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-daily-leads-and-partners](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1908-recyclable-and-low-fat-products) |
+| [1948-rearrange-products-table](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1948-rearrange-products-table) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Two Pointers
 |  |
