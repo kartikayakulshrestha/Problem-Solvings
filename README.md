@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0921-spiral-matrix-iii) |
 | [1044-find-common-characters](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1044-find-common-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2227-sum-of-subarray-ranges](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2227-sum-of-subarray-ranges) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Math
 |  |
@@ -164,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0216-combination-sum-iii) |
+## Stack
+|  |
+| ------- |
+| [2227-sum-of-subarray-ranges](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2227-sum-of-subarray-ranges) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2227-sum-of-subarray-ranges](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
