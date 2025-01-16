@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0146-lru-cache](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0146-lru-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0560-subarray-sum-equals-k) |
 | [1044-find-common-characters](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1044-find-common-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0295-find-median-from-data-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -180,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2227-sum-of-subarray-ranges](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2227-sum-of-subarray-ranges) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
