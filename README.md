@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0145-binary-tree-postorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -190,4 +191,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0146-lru-cache) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
