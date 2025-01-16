@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0216-combination-sum-iii) |
 | [0455-assign-cookies](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0540-single-element-in-a-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0455-assign-cookies) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -214,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0200-number-of-islands) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
