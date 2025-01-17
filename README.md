@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0088-merge-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0120-triangle) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0455-assign-cookies) |
@@ -182,11 +185,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0145-binary-tree-postorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0042-trapping-rain-water) |
 | [2227-sum-of-subarray-ranges](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2227-sum-of-subarray-ranges) |
 ## Linked List
 |  |
