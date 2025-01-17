@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0088-merge-sorted-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0146-lru-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0560-subarray-sum-equals-k) |
 | [1044-find-common-characters](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1044-find-common-characters) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0131-palindrome-partitioning) |
 | [0680-valid-palindrome-ii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0812-rotate-string) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0295-find-median-from-data-stream) |
