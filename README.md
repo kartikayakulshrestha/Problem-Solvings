@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0120-triangle) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0200-number-of-islands) |
 | [0921-spiral-matrix-iii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0921-spiral-matrix-iii) |
 ## Simulation
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0540-single-element-in-a-sorted-array) |
 ## String Matching
