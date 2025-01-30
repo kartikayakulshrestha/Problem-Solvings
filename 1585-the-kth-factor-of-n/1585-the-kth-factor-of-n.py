@@ -1,8 +1,14 @@
 class Solution:
     def kthFactor(self, n: int, k: int) -> int:
-        for i in range(1,n+1):
+        factors=[]
+        for i in range(1,int(n**(0.5)+1)):
             if n%i==0:
-                if k==1:
-                    return i
-                k-=1
-        return -1
+                factors.append(i)
+                if i != n // i: 
+                    factors.append(n // i)  
+        if len(factors)<k:
+            return -1
+        factors.sort()
+        
+        return factors[k-1]
+        
