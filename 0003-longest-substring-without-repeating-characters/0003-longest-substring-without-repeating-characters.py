@@ -1,22 +1,21 @@
-from collections import deque
+from collections import OrderedDict
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        l=0
-        r=0
-        sets=set()
-        n=len(s)
-        m=0
-        while r<n and l<n:
-
-            if s[r] not in sets:
-                sets.add(s[r])
-                r+=1
+        ord=OrderedDict()
+        maxLen=1
+        if s=="":
+            return 0
+        for i in s:
+            if i not in ord:
+                ord[i]=1
             else:
+                maxLen=max(maxLen,len(ord))
                 
-                sets.remove(s[l])
-                l+=1
-            m=max(m,r-l)
-        return m
+                x=ord.popitem(last=False)
                 
-
-        
+                while ord and x[0]!=i:
+                    x=ord.popitem(last=False)
+                ord[i]=1
+            
+        maxLen=max(maxLen,len(ord))    
+        return maxLen
