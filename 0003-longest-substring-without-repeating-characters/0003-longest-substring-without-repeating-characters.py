@@ -1,21 +1,23 @@
-from collections import OrderedDict
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        ord=OrderedDict()
-        maxLen=1
-        if s=="":
-            return 0
-        for i in s:
-            if i not in ord:
-                ord[i]=1
+        maxLen=0
+        n=len(s)
+        i=0
+        j=0
+        visited=set()
+        while j<n:
+            if s[j] not in visited:
+                visited.add(s[j])
+                j+=1
             else:
-                maxLen=max(maxLen,len(ord))
+                maxLen=max(j-i,maxLen)
                 
-                x=ord.popitem(last=False)
-                
-                while ord and x[0]!=i:
-                    x=ord.popitem(last=False)
-                ord[i]=1
+                while s[j] in visited:
+                    visited.remove(s[i])
+                    i+=1
+                visited.add(s[j])
+                j+=1
             
-        maxLen=max(maxLen,len(ord))    
-        return maxLen
+        maxLen=max(j-i,maxLen)
+        return maxLen  
+            
