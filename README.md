@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0042-trapping-rain-water) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0890-lemonade-change) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0189-rotate-array) |
