@@ -1,10 +1,10 @@
+from collections import defaultdict
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        dic={}
-        for i in strs:
-            x="".join(sorted(i))
-            if x in dic:
-                dic[x].append(i)
-            else:
-                dic[x]=[i]
-        return list(dic.values())
+        anagrams=defaultdict(list)
+        for word in strs:
+            freq=[0]*26
+            for char in word:
+                freq[ord(char)-ord("a")]+=1
+            anagrams[tuple(freq)].append(word)
+        return list(anagrams.values())
