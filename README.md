@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -243,12 +244,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0084-largest-rectangle-in-histogram) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0145-binary-tree-postorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0084-largest-rectangle-in-histogram) |
 | [2227-sum-of-subarray-ranges](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2227-sum-of-subarray-ranges) |
 ## Linked List
 |  |
