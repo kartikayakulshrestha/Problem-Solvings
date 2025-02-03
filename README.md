@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0054-spiral-matrix) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0189-rotate-array) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0074-search-a-2d-matrix) |
