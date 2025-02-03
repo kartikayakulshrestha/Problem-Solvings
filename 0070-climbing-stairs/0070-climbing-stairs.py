@@ -1,14 +1,14 @@
 class Solution:
-    
     def climbStairs(self, n: int) -> int:
-        dic={1:1,2:2}
-        if n==1:
-            return 1
-        if n==2:
-            return 2
-        for i in range(3,n+1):
-            dic[i]=dic[i-2]+dic[i-1]
-        return dic[n]
-        
+        dp=[0]*(n+1)
+        def func(step):
+            
+            if step<2:
+                return 1
+            if dp[step]>0:
+                return dp[step]
+            dp[step]=func(step-1)+func(step-2)
+            return dp[step]
 
+        return func(n)
         
