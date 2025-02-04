@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0120-triangle) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0208-implement-trie-prefix-tree) |
 | [0680-valid-palindrome-ii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0680-valid-palindrome-ii) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0200-number-of-islands) |
 | [0921-spiral-matrix-iii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0921-spiral-matrix-iii) |
 ## Simulation
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0216-combination-sum-iii) |
 ## Stack
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0098-validate-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0200-number-of-islands) |
