@@ -1,19 +1,23 @@
 class Solution:
     def combinationSum(self, arr: List[int], target: int) -> List[List[int]]:
         n=len(arr)
-        ans=[]
+        dic={}
         arr.sort()
         def func(i,s,t):
             
             if t==0:
-                ans.append(s)
-                return 
+                dic[(i,t)]=[s]
+                return dic[(i,t)]
             if t<0:
-                return 
+                dic[(i,t)]=[]
+                return []
             if i>n-1:
-                return 
-            
-            func(i,s+[arr[i]],t-arr[i])
-            func(i+1,s,t)
-        func(0,[],target)
-        return ans
+                dic[(i,t)]=[]
+                return []
+        
+            pick=func(i,s+[arr[i]],t-arr[i])
+            nonpick=func(i+1,s,t)
+            dic[(i,t)]=pick+nonpick
+            return dic[(i,t)]
+        
+        return func(0,[],target)
