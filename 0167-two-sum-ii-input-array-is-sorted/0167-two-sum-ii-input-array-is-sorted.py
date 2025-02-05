@@ -1,6 +1,6 @@
 class Solution:
     def twoSum(self, arr: List[int], target: int) -> List[int]:
-        dic={}
+        
         n=len(arr)
         l=0
         r=n-1
