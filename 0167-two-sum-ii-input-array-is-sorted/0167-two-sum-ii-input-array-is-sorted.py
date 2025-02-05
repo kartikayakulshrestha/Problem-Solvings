@@ -2,9 +2,14 @@ class Solution:
     def twoSum(self, arr: List[int], target: int) -> List[int]:
         dic={}
         n=len(arr)
-        for i in range(n):
-            x=target-arr[i]
-            if arr[i] in dic:
-                return [dic[arr[i]]+1,i+1]
-            dic[x]=i
+        l=0
+        r=n-1
+        while l<=r:
+            x=arr[l]+arr[r]
+            if x==target:
+                return [l+1,r+1]
+            elif x>target:
+                r-=1
+            else:
+                l+=1
         
