@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0023-merge-k-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
 |  |
