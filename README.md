@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0189-rotate-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0208-implement-trie-prefix-tree) |
@@ -184,10 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0067-add-binary) |
 | [0921-spiral-matrix-iii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0921-spiral-matrix-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0078-subsets) |
 | [0476-number-complement](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0476-number-complement) |
 ## Prefix Sum
