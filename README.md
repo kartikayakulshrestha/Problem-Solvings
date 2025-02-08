@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1236-n-th-tribonacci-number) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0131-palindrome-partitioning) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0145-binary-tree-postorder-traversal) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0145-binary-tree-postorder-traversal) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0098-validate-binary-search-tree) |
 ## Merge Sort
 |  |
