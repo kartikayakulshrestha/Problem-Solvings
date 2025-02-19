@@ -1,23 +1,29 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        maxLen=0
+        #basic way is to create all possible substrings and then check what to do
+        sets=set()
         n=len(s)
-        i=0
-        j=0
-        visited=set()
+
+        max_len=0
+        j=i=0
         while j<n:
-            if s[j] not in visited:
-                visited.add(s[j])
+            
+            if s[j] not in sets:
+                sets.add(s[j])
+                
                 j+=1
             else:
-                maxLen=max(j-i,maxLen)
-                
-                while s[j] in visited:
-                    visited.remove(s[i])
+                max_len=max(max_len,j-i)
+                while i<j and s[i]!=s[j]:
+                    sets.remove(s[i])
                     i+=1
-                visited.add(s[j])
+                sets.remove(s[i])
+                i+=1
+                sets.add(s[j])
                 j+=1
+
             
-        maxLen=max(j-i,maxLen)
-        return maxLen  
-            
+        max_len=max(max_len,j-i)    
+        return max_len
+
+        
