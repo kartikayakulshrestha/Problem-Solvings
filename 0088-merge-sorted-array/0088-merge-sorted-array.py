@@ -1,29 +1,27 @@
 class Solution:
-    
-            
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        nums1Index=m-1
-        nums2Index=n-1
-        
-        newCreation=n+m-1
-        while nums1Index>-1 and nums2Index>-1:
-            
-            if nums1[nums1Index]<nums2[nums2Index]:
-                nums1[newCreation]=nums2[nums2Index]
-                newCreation-=1
-                nums2Index-=1
+        index=m+n-1
+        i=m-1
+        j=n-1
+
+        while i>=0 and j>=0:
+            if nums1[i]>=nums2[j]:
+                nums1[index]=nums1[i]
+                i-=1
+                index-=1
             else:
-                nums1[newCreation]=nums1[nums1Index]
-                newCreation-=1
-                nums1Index-=1
-        while nums2Index>-1:
-            nums1[newCreation]=nums2[nums2Index]
-            newCreation-=1
-            nums2Index-=1     
-        while nums1Index>-1:
-            nums1[newCreation]=nums1[nums1Index]
-            newCreation-=1
-            nums1Index-=1
+                nums1[index]=nums2[j]
+                j-=1
+                index-=1
+        while i>=0:
+            nums1[index]=nums1[i]
+            i-=1
+            index-=1
+        while j>=0:
+            nums1[index]=nums2[j]
+            j-=1
+            index-=1
+        return nums1
