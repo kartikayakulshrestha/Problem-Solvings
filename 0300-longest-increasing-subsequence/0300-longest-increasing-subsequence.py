@@ -1,18 +1,20 @@
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
         n=len(nums)
-        memo=[[-1]*(n+1) for i in range(n)]
-        def recur(prev,index):
-            if index==len(nums):
-                return 0
-            if memo[prev][index]!=-1:
-                return memo[prev][index]
-            pick=0
-            if prev==-1 or nums[prev]<nums[index]:
-                pick=recur(index,index+1)+1
-            nonpick=recur(prev,index+1)
-            memo[prev][index]=max(pick,nonpick)
-            return memo[prev][index]
+        dp = [[0] * (n + 1) for _ in range(n + 1)] 
+        for index in range(n - 1, -1, -1):  # Iterate from right to left
+            for prev in range(index - 1, -2, -1):  # Previous index (-1 for no previous)
+                # Option 1: Skip current element
+                nonpick = dp[index + 1][prev + 1]
+
+                # Option 2: Pick current element if valid
+                pick = 0
+                if prev == -1 or nums[prev] < nums[index]:
+                    pick = 1 + dp[index + 1][index + 1]
+
+                dp[index][prev + 1] = max(pick, nonpick)
+
+        return dp[0][0]
+       
         
-        return recur(-1,0)
         
