@@ -1,24 +1,24 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        n=len(s)
-        dp=[[None]*n for i in range(n)]
+        dp=[[-1]*len(s) for i in range(len(s))]
         def checkPalin(i,j):
             if i>=j:
-                dp[i][j]=True
-                return dp[i][j]
-            if dp[i][j]!=None:
-                return dp[i][j]
+                return True
             if s[i]!=s[j]:
                 dp[i][j]=False
                 return dp[i][j]
-            dp[i][j]=checkPalin(i+1,j-1)   
-            return dp[i][j]
-        maxi=""
-        for i in range(n):
-            for j in range(i,n):
-                if j-i+1>len(maxi):
-
-                    if checkPalin(i,j):
-                        maxi=s[i:j+1]
-        return maxi
+            if dp[i][j]!=-1:
+                return dp[i][j]
+            if s[i]==s[j]:
+                dp[i][j]=checkPalin(i+1,j-1)
+                return dp[i][j]
+        maxlen=0
+        starting=0
+        for i in range(len(s)):
+            for j in range(len(s)-1,i-1,-1):
+                if checkPalin(i,j):
+                    if j-i+1>maxlen:
+                        maxlen=j-i+1
+                        starting=i
+        return s[starting:starting+maxlen]
         
