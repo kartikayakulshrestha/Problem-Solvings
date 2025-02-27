@@ -1,15 +1,18 @@
-
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        anagrams={}
-        for word in strs:
-            freq=[0]*26
-            for char in word:
-                freq[ord(char)-ord("a")]+=1
-            p=tuple(freq)
-            if p in anagrams:
+        n=len(strs)
+        dic={}
+        for i in range(n):
+            freq = [0] * 26  
 
-                anagrams[p].append(word)
+            for j in strs[i]:
+                freq[ord(j) - 97] += 1  # Update frequency count
+
+            tup = tuple(freq)  # Convert list to an immutable tuple
+
+            if tup not in dic:
+                dic[tup] = [strs[i]]
             else:
-                anagrams[p]=[word]
-        return list(anagrams.values())
+                dic[tup].append(strs[i])
+        return list(dic.values())
+        
