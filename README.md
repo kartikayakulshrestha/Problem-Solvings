@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1236-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1585-the-kth-factor-of-n) |
+| [2610-closest-prime-numbers-in-range](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2610-closest-prime-numbers-in-range) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1585-the-kth-factor-of-n) |
+| [2610-closest-prime-numbers-in-range](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2610-closest-prime-numbers-in-range) |
 ## Binary Search Tree
 |  |
 | ------- |
