@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0216-combination-sum-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0300-longest-increasing-subsequence) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1236-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1585-the-kth-factor-of-n) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/1585-the-kth-factor-of-n) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/2610-closest-prime-numbers-in-range) |
 ## Binary Search Tree
@@ -395,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0023-merge-k-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kartikayakulshrestha/Problem-Solvings/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
